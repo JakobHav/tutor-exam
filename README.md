@@ -9,3 +9,5 @@ Besprechung der Klausur voraussichtlich am 13.02.2026 um 10:00 im SSR 01-016/18 
 Die .typ Datei ist die Datei zur Erstellung der PDF, ähnlich zu LaTeX, nur dass ihr euch nicht wundert.
 
 Fragen und Verbesserungsvorschläge gerne an <jh1444@email.uni-freiburg.de>
+
+_Hinweis: ich bewerte euch nicht, bitte schickt mir keine Emails deswegen (Zeitgründe :D)_
