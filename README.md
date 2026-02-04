@@ -1,6 +1,6 @@
 # Hallo liebe Menschen
 
-Ich habe als Tutor mal versucht eine Probeklausur zu machen, die im Stil der Klausur ist, damit ihr mehr zum üben habt. 
+Ich habe als Tutor mal versucht eine Probeklausur zu machen, die im Stil der Klausur ist, damit ihr mehr zum üben habt. Die Probeklausur hat keine assoziation zum Lehrstuhl, ich habe die als Privatperson erstellt und kenne die Klausur selbstverständlich nicht! :)
 
 Wie gesagt: Keine Garantie.
 
