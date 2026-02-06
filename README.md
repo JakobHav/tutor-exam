@@ -10,7 +10,7 @@ Die .typ Datei ist die Datei zur Erstellung der PDF, ähnlich zu LaTeX, nur dass
 
 Fragen und Verbesserungsvorschläge gerne an <jh1444@email.uni-freiburg.de>
 
-Hinweis: Fehler im Test von `ex02_strings.py`: beim 2. Beispiel müsste eigentlich stehen:
+_Hinweis_: Fehler im Test von `ex02_strings.py`: beim 2. Beispiel müsste eigentlich stehen:
 
 ```py
 assert validate_email("test.user_123@domain.co.uk") is False
