@@ -153,9 +153,12 @@ drinks = {
 #pagebreak()
 = Aufgabe 3 #text(weight: "medium")[(Strings; 20 Punkte)]
 
-+ (5 Punkte) Bei der Cäsar-Verschlüsselung werden alle Buchstaben im Alphabet um einebestimmte Zahl verschoben. Für die Zahl 3 wird das Alphabet zum Beispiel wie folgt verschoben:
++ (5 Punkte) Bei der Cäsar-Verschlüsselung werden alle Buchstaben im Alphabet um eine bestimmte Zahl verschoben. Für einen Schlüssel `key = 3` würde aus einem `"a"` z. B. ein `"d"`
 
   Schreiben Sie die Funktionen `encode`, die eine Zeichenkette `msg` und eine Ganzzahl `key` nimmt und den Text mit der oben gezeigten Methode verschlüsseln.
+
+
+  Hinweis: `ord()` verwandelt einen Buchstaben in die dazugehörige Ganzzahl des Unicode code, `chr()` wandelt die Zahl zurück. Eine Unicode-Tabelle sieht so aus:
 
   ```md
   | letter | unicode |
@@ -166,8 +169,6 @@ drinks = {
   |   d    |   100   |
   |  ...   |   ...   |
   ```
-
-  Hinweis: `ord()` verwandelt einen Buchstaben in die dazugehörige Ganzzahl des Unicode code, `chr()` wandelt die Zahl zurück.
 
 
   ```py
